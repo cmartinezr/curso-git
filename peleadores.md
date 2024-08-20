@@ -4,5 +4,5 @@
 * Ken
 * Chun Li
 * Dhalsim
-* Honda
 * Guille
+* Zangief
