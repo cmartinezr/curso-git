@@ -3,7 +3,7 @@
 * Magneto
 * Thor
 * Thanos
-* Ironman
+* Hulk
 * Wolverine
 * Deadpool
-* Antorcha humana
+* Capitán América
