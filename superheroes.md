@@ -4,3 +4,5 @@
 * Thor
 * Thanos
 * Ironman
+* Wolverine
+* Deadpool
