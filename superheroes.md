@@ -6,4 +6,4 @@
 * Spiderman
 * Wolverine
 * Deadpool
-* La Mole
+* Capitán América
