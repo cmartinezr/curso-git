@@ -6,3 +6,4 @@
 * Ironman
 * Wolverine
 * Deadpool
+* Antorcha humana
