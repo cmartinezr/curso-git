@@ -3,7 +3,7 @@
 * Magneto
 * Thor
 * Thanos
-* Ironman
+* Spiderman
 * Wolverine
 * Deadpool
-* Antorcha humana
+* La Mole
