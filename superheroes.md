@@ -10,3 +10,4 @@
 * Reed Richards
 * La Mole
 * Profesor Xavier
+* Storm
