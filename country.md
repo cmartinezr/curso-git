@@ -6,3 +6,5 @@
 4. China
 5. Rusia
 6. Brasil
+7. Canadá
+8. EEUU
