@@ -11,3 +11,4 @@
 * La Mole
 * Profesor Xavier
 * Storm
+* Quicksilver
