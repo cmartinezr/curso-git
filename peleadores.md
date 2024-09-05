@@ -1,4 +1,4 @@
-# Participantes
+# Peleadores de SF
 
 * Ryu
 * Ken
