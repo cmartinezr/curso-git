@@ -7,7 +7,6 @@
 * Wolverine
 * Deadpool
 * Capitán América
-* Loki
 * Reed Richards
 * La Mole
 * Profesor Xavier
