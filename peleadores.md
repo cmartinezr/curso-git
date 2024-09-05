@@ -8,4 +8,3 @@
 * Zangief
 * Blanka
 * Honda
-* Akuma
