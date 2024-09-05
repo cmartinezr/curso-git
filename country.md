@@ -1,7 +1,7 @@
 # Países
 
 1. Japón
-2. EEUU
+2. Mexico
 3. India
 4. China
 5. Rusia
